@@ -106,8 +106,9 @@ body::before {
 
 h1 {
   font-family: "Chakra Petch", sans-serif;
-   font-size: clamp(5rem, 3rem + 2vw, 10rem);
+  font-size: clamp(5rem, 3rem + 2vw, 10rem);
   padding-bottom: 3rem;
+  line-height: clamp(5rem, 3rem + 2vw, 10rem);
 }
 
 p,
