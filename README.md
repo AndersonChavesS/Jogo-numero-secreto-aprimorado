@@ -33,6 +33,7 @@ Este projeto está licenciado sob a licença MIT.
 ## Desenvolvedor
 
 <div>
-<img src="./img/imagem_perfil_fundo_desfocado.jpg" style=width:140px;height:130px;border-radius:50%;/>
+<img src="./img/imagem_perfil_fundo_desfocado.jpg" style=width:100px;height:130px;border-radius:50%;/>
 </div>
+
 ### Anderson Chaves
